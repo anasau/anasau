@@ -6,7 +6,8 @@
 
 # What's going on 
 
-- 🌱 I’m currently learning Heroku, App Security & more React & TS 
+- 🌱 I’m currently learning Heroku, App Security & AWS <code><img height="40" alt="AWS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+
 - 👯 Highly interested to collaborate on EdTech / HealthTech / Foodtech project 
 - 💬 Ask me about React Native, Redux, Express 
 - 📫 How to reach me: LinkedIn / anasau28@gmail.com
@@ -31,6 +32,8 @@ My Languages and tools
 <code><img height="40" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="40" alt="Redis" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+<code><img height="40" alt="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+
 
 
 
