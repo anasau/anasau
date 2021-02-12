@@ -1,16 +1,19 @@
-### Hi there 👋 I'm Ana, a full-stack developer based in London ✨
+### Hi there 👋 I'm Ana, a full-stack developer from Moldova :moldova: based in	London :uk:	✨
 
-<!--
-**anasau/anasau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ # :computer: I've been working on
+- Vital - an online multiplayer game where players fight a deadly pandemic of misinformation. :world_map:	
 
-- 🔭 I’m currently working on a 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+ # What's going on 
+
+- 🌱 I’m currently learning Heroku, App Security & more React & TS 
+- 👯 Highly interested to collaborate on EdTech / HealthTech / Foodtech project 
+- 💬 Ask me about React Native, Redux, Express 
+- 📫 How to reach me: LinkedIn 
 - 😄 Pronouns: she/her/hers 
-- ⚡ Fun fact: ...
--->
+
+Things I enjoy to do besides coding
+- Reading 📚
+- Spinning:biking_woman:  & Running :running:
+- Dancing :woman_dancing:
+
