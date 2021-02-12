@@ -2,7 +2,7 @@
 
 
  # :computer: I've been working on
-- Vital - an online multiplayer game where players fight a deadly pandemic of misinformation. :world_map:	
+- VIRAL :world_map:	an online multiplayer game where players fight a deadly pandemic of misinformation. 
 
  # What's going on 
 
