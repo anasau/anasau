@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ana, a full-stack developer from Moldova :moldova: based in	London :uk:	✨
+### Hi there 👋 I'm Ana, a full-stack developer based in	London :uk:	✨
 
 
  # :computer: I've been working on
