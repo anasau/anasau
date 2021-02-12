@@ -6,7 +6,8 @@
 
 # What's going on 
 
-- 🌱 I’m currently learning Heroku, App Security & AWS <code><img height="40" alt="AWS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+- 🌱 I’m currently learning Heroku <code><img height="40" alt="Heroku" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+, App Security & AWS <code><img height="40" alt="Heroku" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/heroku/heroku.png"></code>
 
 - 👯 Highly interested to collaborate on EdTech / HealthTech / Foodtech project 
 - 💬 Ask me about React Native, Redux, Express 
