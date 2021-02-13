@@ -16,7 +16,7 @@
 
 My work so far 
 
--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasau)](https://github.com/anasau/github-readme-stats)
+-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasau&theme=dark&show_icons=true)](https://github.com/anasau/github-readme-stats)
 
 
 My Languages and tools
