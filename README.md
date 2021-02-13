@@ -11,7 +11,7 @@
 
 - 👯 Highly interested to collaborate on EdTech / HealthTech / Foodtech project 
 - 💬 Ask me about React Native, Redux, Express 
-- 📫 How to reach me: LinkedIn / anasau28@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anasau/) / anasau28@gmail.com
 - 😄 Pronouns: she/her/hers 
 
 My work so far 
