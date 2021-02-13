@@ -3,7 +3,7 @@
 
  # :computer: I've been working on
 - VIRAL :world_map:	an online multiplayer game where players fight a deadly pandemic of misinformation. 
-- Imago Reflection: :notebook: transforming a reflection booklet created by my brother-in-law into a react native app 
+- Imago Reflection: :notebook: transforming the reflection booklet created by my brother-in-law into a react native app 
 
 # What's going on 
 
