@@ -7,7 +7,7 @@
 
 # What's going on 
 
-- 🌱 I’m currently learning Heroku, & AWS <code><img height="40" alt="AWS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>  as well as improving React & Typescript skills 
+- 🌱 I’m currently learning <code><img height="40" alt="AWS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>  as well as improving React & Typescript skills 
 
 - 👯 Highly interested to collaborate on EdTech / HealthTech / Foodtech project 
 - 💬 Ask me about React Native, Redux, Express 
