@@ -1,9 +1,5 @@
 ### Hi there 👋 I'm Ana, a full-stack developer based in	London :uk:	✨
 
-
- # :computer: I've been working on
-- VIRAL :world_map:	an online multiplayer game where players fight a deadly pandemic of misinformation. 
-
 # What's going on 
 
 - 🌱 I’m currently learning <code><img height="40" alt="AWS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
