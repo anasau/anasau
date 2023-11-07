@@ -6,10 +6,10 @@
 
 # What's going on 
 
-- 🌱 I’m currently learning <code><img height="40" alt="AWS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>  as well as improving my React & Typescript skills 
+- 🌱 I’m currently learning <code><img height="40" alt="AWS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
-- 👯 Highly interested to collaborate on EdTech / HealthTech / Foodtech project 
-- 💬 Ask me about React Native, Redux, Express 
+- 👯 Highly interested in collaborating on a EdTech / HealthTech project 
+- 💬 Ask me about Javascript and Node Js 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anasau/) / anasau28@gmail.com
 - 😄 Pronouns: she/her/hers 
 
